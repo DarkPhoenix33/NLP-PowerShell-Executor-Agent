@@ -1,0 +1,10 @@
+fastapi==0.110.0
+uvicorn==0.29.0 
+requests==2.31.0 
+botbuilder-core==4.15.0
+botbuilder-schema==4.15.0
+botbuilder-integration-aiohttp==4.15.0 
+paramiko==3.4.0
+groq
+powershell_executor
+openai
